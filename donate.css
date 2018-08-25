@@ -72,6 +72,7 @@ button.close {
     background: #fff;
     border-radius: 6px;
     display: none;
+    z-index: 999;
 }
 
 .zs-modal-head {
